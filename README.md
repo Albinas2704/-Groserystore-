@@ -1,5 +1,4 @@
 # -Groserystore-
-a href="https://github.com/quintuslabs/GroceryStore"><img src="screen/logo.png" height="150px" width="150px" title="Grocery" alt="Grocery Store"></a>
 # Grocery Store
 Grocery Store App, is an online shopping cart application. This is a geniune and native mobile application to which you can rely on, specially when you want to get it done quickly. 
 It comprises of 10+ screens with different features to make the navigate smooth & user-friendly.
@@ -92,12 +91,4 @@ All the code used, are well organized and layered to make the development precis
 <img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen6.png" width="500" alt="Screen 6">
 
 
-
-<img src="screen/1.png">
-
-<img src="screen/2.png">
-
-<img src="screen/3.png">
-
-<img src="screen/4.png">
 
