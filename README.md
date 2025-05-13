@@ -80,16 +80,16 @@ All the code used, are well organized and layered to make the development precis
 
 ## Screen 
 
-<img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen1.png" width="300" alt="Screen 1">
+<img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen1.png" width="500" alt="Screen 1">
 
-<img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen2.png" width="300" alt="Screen 2">
+<img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen2.png" width="500" alt="Screen 2">
 
-<img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen3.png" width="300" alt="Screen 3">
-<img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen4.png" width="300" alt="Screen 4">
+<img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen3.png" width="500" alt="Screen 3">
+<img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen4.png" width="500" alt="Screen 4">
 
-<img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen5.png" width="300" alt="Screen 5">
+<img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen5.png" width="500" alt="Screen 5">
 
-<img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen6.png" width="300" alt="Screen 6">
+<img src="https://github.com/Albinas2704/-Groserystore-/blob/main/screen6.png" width="500" alt="Screen 6">
 
 
 
